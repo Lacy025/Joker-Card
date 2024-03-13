@@ -4,80 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1632e323-944e-4ad2-a5cd-1b738646b0e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/joker-card.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/auto_hold.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/bet.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/cards.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/cash_1.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/cash_2.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/clear.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/credit.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/deal_1.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/deal_2.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/end.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/intro.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/stop.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cards/k53.png" afterDir="false" />
+    <list default="true" id="1632e323-944e-4ad2-a5cd-1b738646b0e5" name="Changes" comment="win check">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,9 +70,20 @@
       <option name="presentableId" value="Default" />
       <updated>1710177331851</updated>
     </task>
+    <task id="LOCAL-00001" summary="win check">
+      <option name="closed" value="true" />
+      <created>1710354048916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710354048916</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="win check" />
+    <option name="LAST_COMMIT_MESSAGE" value="win check" />
   </component>
 </project>
