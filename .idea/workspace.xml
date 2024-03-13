@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1632e323-944e-4ad2-a5cd-1b738646b0e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/joker-card.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/auto_hold.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/bet.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/cards.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/cash_1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/cash_2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/clear.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/credit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/deal_1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/deal_2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/end.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/intro.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/stop.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/k53.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dYFv5Vg2UPm1JPNdizhjveXz2E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.win.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lacy\PycharmProjects\joker-card" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1632e323-944e-4ad2-a5cd-1b738646b0e5" name="Changes" comment="" />
+      <created>1710177331851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710177331851</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
